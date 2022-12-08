@@ -9,7 +9,7 @@
  * 		hton( (void*) &ptr ,sizeof(int))
  * 		value -> [b3 b2 b1 b0]
  *
- * Code Editor : VIM
+ * Text Editor : VIM
  * 
  * Warning : Do not pass a different datatype size
  *
