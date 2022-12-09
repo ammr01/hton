@@ -6,7 +6,7 @@
  * Usage : reverse byte order (host byte order to network byte order) 
  * 
  * Example :	int value -> [b0 b1 b2 b3]
- * 		hton( (void*) &ptr ,sizeof(int))
+ * 		hton( (void*) &value ,sizeof(int))
  * 		value -> [b3 b2 b1 b0]
  *
  * Text Editor : VIM
